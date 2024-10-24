@@ -1,0 +1,86 @@
+[
+    {
+        "recipe_image": "https://i.ibb.co.com/Xs2fkwy/healthy-platter-salad-containing-mushrooms-chopped-carrots-cherries-salad-leaves.jpg",
+        "recipe_id": "1",
+        "recipe_name": "Chicken Basil Stir-fry",
+        "short_description": "A quick and easy chicken stir-fry with fresh basil and mushrooms.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g basil leaf",
+            "400 g mushroom"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/d4jQS36/delicious-lobster-gourmet-seafood.jpg",
+        "recipe_id": "2",
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "Classic Italian pasta dish with creamy sauce and crispy pancetta.",
+        "ingredients": [
+            "400 g spaghetti",
+            "150 g pancetta",
+            "3 large eggs",
+            "100 g parmesan cheese"
+        ],
+        "preparing_time": "20 min",
+        "calories": "450 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/C9pW1Jf/chicken-skewers-with-slices-sweet-peppers-dill.jpg",
+        "recipe_id": "3",
+        "recipe_name": "Vegetarian Tacos",
+        "short_description": "Delicious tacos filled with roasted vegetables and fresh salsa.",
+        "ingredients": [
+            "2 bell peppers",
+            "1 zucchini",
+            "200 g black beans",
+            "100 g salsa"
+        ],
+        "preparing_time": "25 min",
+        "calories": "250 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/HYzK3MH/delicious-fried-chicken-plate.jpg",
+        "recipe_id": "4",
+        "recipe_name": "Grilled Salmon",
+        "short_description": "Tender grilled salmon with a lemon and herb marinade.",
+        "ingredients": [
+            "500 g salmon fillets",
+            "2 tbsp olive oil",
+            "1 lemon",
+            "1 tbsp fresh dill"
+        ],
+        "preparing_time": "15 min",
+        "calories": "350 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/NC2QkqR/top-view-table-full-delicious-food-composition.jpg",
+        "recipe_id": "5",
+        "recipe_name": "Caesar Salad",
+        "short_description": "Crisp romaine lettuce with a creamy Caesar dressing and croutons.",
+        "ingredients": [
+            "1 head romaine lettuce",
+            "50 g parmesan cheese",
+            "100 g croutons",
+            "3 tbsp Caesar dressing"
+        ],
+        "preparing_time": "10 min",
+        "calories": "200 calories"
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/C8HcHgj/bowl-pasta-with-chicken-breast-tomato-sauce.jpg",
+        "recipe_id": "6",
+        "recipe_name": "Chocolate Chip Cookies",
+        "short_description": "Classic chocolate chip cookies with a chewy center and crispy edges.",
+        "ingredients": [
+            "250 g flour",
+            "150 g butter",
+            "100 g sugar",
+            "200 g chocolate chips"
+        ],
+        "preparing_time": "35 min",
+        "calories": "300 calories"
+    }
+]
